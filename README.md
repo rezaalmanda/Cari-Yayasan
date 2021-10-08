@@ -6,8 +6,7 @@ Fitur cari yayasan meliputi:
 - Cari berdasarkan lokasi terdekat (geolokasi)
 - Alamat dan kontak
 - Media sosial
-- Laporan keuangan
-- ID dari kemensos/kemenkumham
+- Laporan tahunan
 - Jenis yayasan
 
 Cari yayasan terinsiprasi dari https://charitybase.uk/
